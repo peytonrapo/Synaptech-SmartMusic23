@@ -1,1 +1,5 @@
+MidiData is the folder that has the data for training
+ProcessingMidi is for creating the midiData folder
+(midi_test and midiSamples don't matter)
+
 
